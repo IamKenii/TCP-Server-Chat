@@ -1,2 +1,4 @@
-> TCP-Server-Chat
->> Sort of chat system on your local IP.
+## Simple server chat room.
+==========
+>> Works in Python3
+
